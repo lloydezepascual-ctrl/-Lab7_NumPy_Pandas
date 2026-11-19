@@ -1,0 +1,6 @@
+Feature,Avail_Obs_Diff,Avail_Boot_Mean_Diff,Avail_CI_Low,Avail_CI_High,Imp_Obs_Diff,Imp_Boot_Mean_Diff,Imp_CI_Low,Imp_CI_High,Diff_Change,Sign_Changed,Avail_Rank,Imp_Rank,Rank_Changed
+feature_054,0.0034,0.0034,-0.0049,0.0115,0.0034,0.0034,-0.0048,0.0114,0.0,False,4,4,False
+feature_105,0.0,-0.0,-0.0005,0.0005,0.0,-0.0,-0.0005,0.0005,0.0,False,5,5,False
+feature_115,-8.5814,-8.394,-17.571,0.5103,-8.5814,-8.394,-17.571,0.5103,0.0,False,2,2,False
+feature_224,0.0041,0.0038,-0.0111,0.0265,0.0045,0.0042,-0.0105,0.027,0.0004,False,3,3,False
+feature_431,17.7329,17.8448,4.8776,33.8837,17.5194,17.6368,4.832,33.1804,0.208,False,1,1,False

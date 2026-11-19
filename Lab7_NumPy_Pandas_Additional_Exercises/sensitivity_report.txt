@@ -1,0 +1,16 @@
+STATISTICAL ROBUSTNESS AND SENSITIVITY REPORT
+Student: Pascual (TUPM-26-4321)
+Random Seed: 264321 | Bootstrap Repetitions: 210
+Selected Features: feature_054, feature_105, feature_115, feature_224, feature_431
+
+1. Summary of Findings:
+   - Largest Change in Bootstrap Mean Difference: 0.2080 (feature_431)
+   - Features with Changed Difference Sign: None (0 features)
+   - Features with Changed Ranking: None (0 features)
+   - Reproducibility Verified: True
+
+2. Engineering Interpretation:
+   - Comparing available-case analysis against full-dataset median imputation shows how missing-value
+     handling affects Fail-minus-Pass mean differences and relative feature importance.
+   - Features whose 95% bootstrap confidence intervals exclude zero demonstrate consistent directional
+     separation between failing and passing wafers across repeated stratified resampling.
